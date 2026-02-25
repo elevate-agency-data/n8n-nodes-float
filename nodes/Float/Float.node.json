@@ -1,0 +1,20 @@
+{
+  "node": "n8n-nodes-float.Float",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Float"
+  ],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://developer.float.com/index.html"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://developer.float.com/index.html"
+      }
+    ]
+  }
+}
